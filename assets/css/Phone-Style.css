@@ -1,0 +1,43 @@
+@media (max-width: 1000px) {
+  li {
+    text-align: left;
+    font-size: small;
+  }
+}
+
+@media (min-width: 1200px) {
+  p {
+    font-family: 'Fira Code', monospace;
+    text-align: center;
+  }
+}
+
+@media (max-width: 1000px) {
+  p {
+    font-family: 'Fira Code', monospace;
+    text-align: center;
+    font-size: small;
+  }
+}
+
+@media (max-width: 1000px) {
+  .section-heading .section-heading-lower {
+    font-size: xx-large;
+  }
+}
+
+@media (min-width: 1200px) {
+  .service {
+    text-align: left;
+    font-family: 'Fira Code', monospace;
+  }
+}
+
+@media (max-width: 1000px) {
+  .service {
+    text-align: left;
+    font-family: 'Fira Code', monospace;
+    font-size: small;
+  }
+}
+
