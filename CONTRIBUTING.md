@@ -4,7 +4,7 @@
 |--------|---|
 |[Git](https://git-scm.com/downloads)|:white_check_mark:|
 |[Bootstrap Studio](https://bootstrapstudio.io/)|:white_check_mark:|
-|[GitHub Desktop](https://desktop.github.com/)|:x:(If you kenw how to use git)|
+|[GitHub Desktop](https://desktop.github.com/)|:x:(If you know how to use git)|
 ## Get Bootstrap Studio
 1. Apply the [GitHub Student Developer Pack](https://education.github.com/pack) with your **school mail** account i.e.```sxxxxxxx@sfxc.edu.hk```
 2. Wait it Approve (It may take a few weeks)
