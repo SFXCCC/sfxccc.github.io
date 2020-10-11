@@ -1,7 +1,7 @@
 @media (max-width: 1000px) {
   li {
     text-align: left;
-    font-size: small;
+    font-size: medium;
   }
 }
 
@@ -16,7 +16,7 @@
   p {
     font-family: 'Fira Code', monospace;
     text-align: center;
-    font-size: small;
+    font-size: medium;
   }
 }
 
@@ -37,7 +37,7 @@
   .service {
     text-align: left;
     font-family: 'Fira Code', monospace;
-    font-size: small;
+    font-size: medium;
   }
 }
 
